@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Valentin Chianese</h1>
-<h3 align="center">Desarrollador de software, estudiante de licenciatura en sistemas con cuatro años de experiencia académica, apasionado del mundo IT</h3>
+<h3 align="center">Técnico Universitario en Informática, desarrollador de software y estudiante de licenciatura en sistemas con cinco años de experiencia académica, apasionado del mundo IT</h3>
 
 - 🔭 Actualmente estoy trabajando en **una página web de un emprendimiento de sublimaciones que además cuenta con una sección para el cliente con las funciones CRUD**
 
