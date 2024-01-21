@@ -1,6 +1,10 @@
 <h1 align="center">Hola 👋, Soy Valentin Chianese</h1>
 <h3 align="center">Técnico Universitario en Informática, desarrollador de software y estudiante de licenciatura en sistemas con cinco años de experiencia académica, apasionado del mundo IT</h3>
 
+<p>Mi nombre es Valentín Chianese, soy técnico universitario en informática y desarrollador de software de Buenos Aires, Argentina. Empecé a programar con Python, pero rápidamente me enamoré de la programación orientada a objetos y Java. He desarrollado y ayudado a desarrollar varios proyectos con este paradigma, en los que he podido aplicar mis conocimientos de algoritmos, estructuras de datos y diseño de software.</p>
+<p>En mis estudios, pude comprender y vivir desde dentro lo que es el análisis, el diseño y la gestión de proyectos informáticos, en particular, en un proyecto académico "KarU", trabajando sobre el framework SAFe, tuve la oportunidad de participar en un equipo siendo desarrollador frontend.</p>
+<p>Soy una persona creativa y autodidacta, creo que los desarrolladores de software tenemos un papel importante que desempeñar en la creación de un futuro mejor para todos.</p>
+
 - 🔭 Actualmente estoy trabajando en **una página web de un emprendimiento de sublimaciones que además cuenta con una sección para el cliente con las funciones CRUD**
 
 - 🌱 Actualmente estoy aprendiendo **Angular, Docker, Figma**
