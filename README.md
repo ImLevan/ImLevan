@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Valentin Chianese</h1>
 <h3 align="center">Técnico Universitario en Informática, desarrollador de software y estudiante de licenciatura en sistemas con cinco años de experiencia académica, apasionado del mundo IT</h3>
 
-<p>Mi nombre es Valentín Chianese, soy técnico universitario en informática y desarrollador de software de Buenos Aires, Argentina. Empecé a programar con Python, pero rápidamente me enamoré de la programación orientada a objetos y Java. He desarrollado y ayudado a desarrollar varios proyectos con este paradigma, en los que he podido aplicar mis conocimientos de algoritmos, estructuras de datos y diseño de software.</p>
+<p>Mi nombre es Valentín Chianese, soy Técnico universitario en informática y desarrollador de software de Buenos Aires, Argentina. Empecé a programar con Python, pero rápidamente me enamoré de la programación orientada a objetos y Java. He desarrollado y ayudado a desarrollar varios proyectos con este paradigma, en los que he podido aplicar mis conocimientos de algoritmos, estructuras de datos y diseño de software.</p>
 <p>En mis estudios, pude comprender y vivir desde dentro lo que es el análisis, el diseño y la gestión de proyectos informáticos, en particular, en un proyecto académico "KarU", trabajando sobre el framework SAFe, tuve la oportunidad de participar en un equipo siendo desarrollador frontend.</p>
 <p>Soy una persona creativa y autodidacta, creo que los desarrolladores de software tenemos un papel importante que desempeñar en la creación de un futuro mejor para todos.</p>
 
@@ -13,15 +13,35 @@
 
 - 📫 Como contactarme **chianesevalentin@gmail.com**
 
-<h3 align="left">Mis redes:</h3>
+<h3 align="left">Estas son  mis redes:</h3>
 <p align="left">
-<a href="https://twitter.com/chianese19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chianese19" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/valentin-chianese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentin-chianese" height="30" width="40" /></a>
 <a href="https://instagram.com/chianesevalentin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chianesevalentin" height="30" width="40" /></a>
 </p>
+<br></br>
 
-<h3 align="left">Lenguajes y herramientas:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h1 align="left">Mis habilidades</h1>
 
+<h3 align="left">Habilidades Frontend:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,astro,figma,tailwind,ts" />
+  </a>
+</p>
+
+<h3 align="left">Habilidades Backend:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs" />
+  </a>
+</p>
+
+<h3 align="left">Otras tecnologías:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postman,mysql,vscode,postgresql,selenium,sqlite,git,linux,docker" />
+  </a>
+</p>
+<br></br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imlevan&show_icons=true&locale=en&layout=compact" alt="imlevan" /></p>
 
