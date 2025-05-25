@@ -7,7 +7,7 @@
 
 - 🔭 Actualmente estoy trabajando en **una página web de un emprendimiento de sublimaciones que además cuenta con una sección para el cliente con las funciones CRUD**
 
-- 🌱 Actualmente estoy aprendiendo **Angular, Docker, Figma**
+- 🌱 Actualmente estoy aprendiendo **Docker**
 
 - 👨‍💻 Todos mis proyectos estan disponibles en mi portfolio [https://imlevan.github.io/](https://imlevan.github.io/)
 
@@ -24,14 +24,14 @@
 <h3 align="left">Habilidades Frontend:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,astro,figma,tailwind,ts" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,angular,astro,figma,tailwind,ts" />
   </a>
 </p>
 
 <h3 align="left">Habilidades Backend:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,nodejs" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs" />
   </a>
 </p>
 
